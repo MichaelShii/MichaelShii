@@ -47,18 +47,10 @@
 
 ---
 
-### 📊 Profile Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelShii&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelShii&layout=compact&theme=radical&hide_border=true" height="150" />
-</div>
-
----
-
 ### 📌 Featured Projects
 
 - 🧠 **[TeamFlow](https://github.com/MichaelShii/dsh-plugin-teamflow)** - 基于 DeepSeek Harness 的多 Agent 研发流水线插件。复刻大厂研发流程（需求→PRD→UI→架构→开发→QA→验收），实现自研 Journal Checkpointer、Token 熔断与多层防假交付门禁。
-- 💸 **[Solana Atomic Arbitrage Bot](https://github.com/MichaelShii/MEVBot)** - 纯 Rust 编写的链上多 DEX 原子套利系统。实现 4 家 DEX 的 CPI 编排与 12 条路由动态选路，CU 优化从 237k 降至 91k。
+- 💸 **[Solana Atomic Arbitrage Bot](https://github.com/MichaelShii/solana-atomic-arbitrage-bot)** - 纯 Rust 编写的链上多 DEX 原子套利系统。实现 4 家 DEX 的 CPI 编排与 12 条路由动态选路，CU 优化从 237k 降至 91k。
 - 📈 **[ZIKO](https://ziko.bot.cd)** - 量化策略回测与 AI 因子挖掘平台。自研回测引擎 + LightGBM 存活模型，m2cgen 导出纯 Rust 推理，AUC 0.90 vs 基线 0.50。
 
 ---
